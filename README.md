@@ -1,5 +1,5 @@
 
-# XMU_EcoLearning
+# XMU_EconLearning
 厦门大学经济学院教材及试卷资料仓库。
 
 公共课包含思政类课程和Python课程。
